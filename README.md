@@ -8,13 +8,13 @@ Three areas were discussed:
 3. The future shape of the group and proposed future plans
 
 ### Outcomes:
-1. eCheminfo meeting / CCP CMC Training and exposure - September
-2. Building first CCP CMC workflows and technology at Diamond
-3. Next CCP CMC meeting - September - location TBD and organiser TBD (AB organise organiser)
+* eCheminfo meeting / CCP CMC Training and exposure - September
+* Building first CCP CMC workflows and technology at Diamond
+* Next CCP CMC meeting - September - location TBD and organiser TBD (AB organise organiser)
 	+Suggestion to be in London
 	+Opportunity to discuss new methods.
 	+Contribute ideas about what you’d like to see?
-4. Projects between ChEMBL and Diamond and Harry Jubb and Diamond / PDB
+* Projects between ChEMBL and Diamond and Harry Jubb and Diamond / PDB
 
 
 ### Attendees
