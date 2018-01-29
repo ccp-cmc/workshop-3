@@ -17,7 +17,6 @@ Three areas were discussed:
 4. Projects between ChEMBL and Diamond and Harry Jubb and Diamond / PDB
 
 
-
 ### Attendees
 |Organisation    |Attendee|
 |----------------|-----------------|
