@@ -12,11 +12,11 @@ Three areas were discussed:
 2. Building first CCP CMC workflows and technology at Diamond
 3. Next CCP CMC meeting - September - location TBD and organiser TBD (AB organise organiser)
 
-	*Suggestion to be in London
+	* Suggestion to be in London
 
-	*Opportunity to discuss new methods.
+	* Opportunity to discuss new methods.
 
-	*Contribute ideas about what you’d like to see?
+	* Contribute ideas about what you’d like to see?
 
 4. Projects between ChEMBL and Diamond and Harry Jubb and Diamond / PDB
 
